@@ -1,0 +1,9 @@
+# Intellij IDE 
+**/*.iml
+**/.idea/
+
+# Client Side
+**/node_modules/
+**/bower_components/
+
+

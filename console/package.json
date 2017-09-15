@@ -1,0 +1,25 @@
+{
+  "name": "ui-console",
+  "version": "1.0.0",
+  "description": "UI Console - Administration Console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UI",
+    "Console",
+    "Admin"
+  ],
+  "author": "\"Suresh Reddy Guntaka <sureshreddy.guntaka@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "^2.1.0",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7"
+  }
+}
